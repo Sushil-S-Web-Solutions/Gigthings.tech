@@ -1,0 +1,28 @@
+
+
+
+git config -- global user. SushilKul
+git config -- global user. kulkarnisushil@hotmail.com
+
+
+touch .gitignore 
+
+git init
+
+
+git add . 
+
+git commit - "intal commit"
+
+git status  
+
+ssh-keygen -t rsa -b 4096 -C "kulkarnisushil@hotmail"
+
+c
+
+
+
+
+
+
+cat - 
