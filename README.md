@@ -11,5 +11,4 @@ Gig Thing Consulting Initially automate the workflows as below – (Target -MSME
 	HR (e.g. automated recruiting, employee benefits)
 	Prospecting (e.g. finding LinkedIn/emails from names, enrichment)
 	Document analysis (e.g. form processing/filling, document review, metadata extraction)
-	Other (e.g. share intent for AI automation consulting)
-
+	Other (e.g. share intent for AI automation consulting).
